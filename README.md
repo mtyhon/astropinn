@@ -22,3 +22,8 @@ Easily solved using Mish and default settings.
 ## Problems to try
 
 - [x] Lane-Emden, fixed polytropic index
+
+
+## TODO
+
+- [ ] Implement fine-tuning using L-BFGS
